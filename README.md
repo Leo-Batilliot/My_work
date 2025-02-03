@@ -6,7 +6,7 @@ Every file is associated with a short description, in depth explanations will be
 [[my_hunter]](https://github.com/Leo-Batilliot/my_hunter) : a pokemon themed [duck hunt](https://en.wikipedia.org/wiki/Duck_Hunt) like game`, done in csfml  
 [[my_radar]](https://github.com/Leo-Batilliot/my_radar) : a 2d air traffic simulator with collisions, done in csfml  
 [[pong]](https://github.com/Leo-Batilliot/EPITECH-MATH-PROJECTS/tree/main/Tek1/101pong/bonus) : my first csfml project, a bare-bones random [pong](https://en.wikipedia.org/wiki/Pong) game.  
-## Algorythm :grey_question: :thinking:
+## Algorithm :grey_question: :thinking:
 [[n_queen_problem]](https://github.com/Leo-Batilliot/EPITECH-C-POOL-DAY-05/blob/main/count_valid_queens_placements.c) simple [Backtracking](https://en.wikipedia.org/wiki/Backtracking) solution to count the number of ways to place n queens on a n*n board  
 [[setting_up]](https://github.com/Leo-Batilliot/setting_up)  recursive algorythm to find the largest safe square in a map filled with obstacles and safe spots.
 [[ascending_combinations_of_n_digits]](https://github.com/Leo-Batilliot/EPITECH-C-POOL-DAY-03/blob/main/my_print_combn.c)  display every combination of n digits in ascending order without using arrays/pointers
